@@ -1,16 +1,18 @@
 # uNITAd
 
+<<<<<<< HEAD
 This is cara : test
 This is Hannah : test
 
 
-Paulo ,....
+Paulo ,....,
 
+=======
+>>>>>>> 018f62248f90692086db0fa3128235eee47a2e5e
 ## About
 
-The purpose of this repository is to distribute handouts during a SESYNC training event. The content changes between short courses, but it typically includes worksheets for different tutorials and any necessary data.
+The purpose of this repository is to organize and present our project to the group.
 
-Most trainees will fork this repository during a short course. Following a short course, the content will be archived as a zip file. To get the handouts from a past short course: navigate to [releases](../../releases), select your course by its starting date, and download `handouts.zip`. The zip does not contain a git repository—only the worksheets and necessary data.
 
 ## Data
 
