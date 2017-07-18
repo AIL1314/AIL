@@ -1,7 +1,11 @@
 # uNITAd
 
 This is cara : test
+
 This is Frieda
+
+This is Hannah : test
+
 ## About
 
 The purpose of this repository is to distribute handouts during a SESYNC training event. The content changes between short courses, but it typically includes worksheets for different tutorials and any necessary data.
