@@ -1,5 +1,10 @@
 # uNITAd
 
+Cara Steger - Colorado State
+Hannah Friedrich - Oregon State
+Frieda Fein - Oregon State
+Paulo Murillo - Oregon State
+
 ## About
 
 The purpose of this repository is to organize and present our project to the group.
