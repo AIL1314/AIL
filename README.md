@@ -1,22 +1,10 @@
 # uNITAd
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is cara : test
-This is Hannah : test
-
-
-Paulo ,....,
-
-=======
->>>>>>> 018f62248f90692086db0fa3128235eee47a2e5e
-=======
 Cara Steger - Colorado State
 Hannah Friedrich - Oregon State
 Frieda Fein - Oregon State
 Paulo Murillo - Oregon State
 
->>>>>>> 9416aa9e84aaff9ee1a3084fd9f39246da81ba0b
 ## About
 
 The purpose of this repository is to organize and present our project to the group.
@@ -26,8 +14,7 @@ The purpose of this repository is to organize and present our project to the gro
 
 Conflict Database from: UCDP Georeferenced Event Dataset (GED) Global version 17.1 (2016).
 
-Hansen et al. (2013) Global Forest Change Dataset: Available as an asset on Google Earth Engine, the Hansen dataset is global forest cover and change data from 2000-2014. Resolution of 30 meters. 
-Citation: Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman, S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. 2013. “High-Resolution Global Maps of 21st-Century Forest Cover Change.” Science 342 (15 November): 850–53. Data available on-line from: http://earthenginepartners.appspot.com/science-2013-global-forest.
+
 
 CHIRPS: Precipitation data.
 
@@ -45,9 +32,12 @@ csv file
 ---
 
 ---
-'HANSEN'
+
+Hansen et al. (2013) Global Forest Change Dataset: Available as an asset on Google Earth Engine, the Hansen dataset is global forest cover and change data from 2000-2014. Resolution of 30 meters. 
 
 Trees are defined as vegetation taller than 5m in height and are expressed as a percentage per output grid cell as ‘2000 Percent Tree Cover’. ‘Forest Cover Loss’ is defined as a stand-replacement disturbance, or a change from a forest to non-forest state, during the period 2000–2015. ‘Forest Cover Gain’ is defined as the inverse of loss, or a non-forest to forest change entirely within the period 2000–2012. ‘Forest Loss Year’ is a disaggregation of total ‘Forest Loss’ to annual time scales.
+
+Citation: Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman, S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. 2013. “High-Resolution Global Maps of 21st-Century Forest Cover Change.” Science 342 (15 November): 850–53. Data available on-line from: http://earthenginepartners.appspot.com/science-2013-global-forest.
 
 ---
 
