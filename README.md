@@ -24,11 +24,11 @@ csv file
 
 ---
 
+---
 'HANSEN'
 
 Trees are defined as vegetation taller than 5m in height and are expressed as a percentage per output grid cell as ‘2000 Percent Tree Cover’. ‘Forest Cover Loss’ is defined as a stand-replacement disturbance, or a change from a forest to non-forest state, during the period 2000–2015. ‘Forest Cover Gain’ is defined as the inverse of loss, or a non-forest to forest change entirely within the period 2000–2012. ‘Forest Loss Year’ is a disaggregation of total ‘Forest Loss’ to annual time scales.
 
-tif format
 ---
 
 ---
@@ -40,6 +40,7 @@ Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS) is a 30+
 Each asset spans a pentad. Each of first 5 pentads in a month have 5 days. The last pentad contains all the days from the 26th to the end of the month.
 
 The dataset contains one band: 'precipitation' (mm/pentad)
+---
 
 ---
  'VSI'
