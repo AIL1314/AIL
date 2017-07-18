@@ -48,8 +48,7 @@ Citation: Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, 
 Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS) is a 30+ year quasi-global rainfall dataset. Spanning 50°S-50°N (and all longitudes), starting in 1981 to near-present, CHIRPS incorporates 0.05° resolution satellite imagery with in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
 
 Each asset spans a pentad. Each of first 5 pentads in a month have 5 days. The last pentad contains all the days from the 26th to the end of the month.
-
-The dataset contains one band: 'precipitation' (mm/pentad)
+The dataset contains one band: "precipitation"" (mm/pentad)
 ---
 
 ---
@@ -59,3 +58,14 @@ Sensitivity of vegetation productivity (defined as EVI) to climate variability (
 This metric identifies areas sensitive to climate variability over the past 14 years. The metric uses time series data derived from the moderate-resolution imaging spectroradiometer (MODIS) enhanced vegetation index, and three climatic variables that drive vegetation productivity (air temperature, water availability and cloud cover).
 
 ---
+
+---
+'Database preparation:'
+
+See --> GEE code:
+https://code.earthengine.google.com/791c501d7701faf6b88bdb0764e388e6
+
+---
+
+
+
