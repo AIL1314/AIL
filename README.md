@@ -15,8 +15,14 @@ Most trainees will fork this repository during a short course. Following a short
 ## Data
 
 Conflict Database from: UCDP Georeferenced Event Dataset (GED) Global version 17.1 (2016).
-Hansen Forest Map: https://earthenginepartners.appspot.com/science-2013-global-forest
+
+
+Hansen Forest Map: 
+Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman, S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. 2013. “High-Resolution Global Maps of 21st-Century Forest Cover Change.” Science 342 (15 November): 850–53. Data available on-line from: http://earthenginepartners.appspot.com/science-2013-global-forest.
+
 CHIRPS: Precipitation data.
+
+
 Seddon index: VSI. Vegetation Sensitivity Index.
 
 ----
