@@ -1,6 +1,7 @@
 # uNITAd
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is cara : test
 This is Hannah : test
 
@@ -9,6 +10,13 @@ Paulo ,....,
 
 =======
 >>>>>>> 018f62248f90692086db0fa3128235eee47a2e5e
+=======
+Cara Steger - Colorado State
+Hannah Friedrich - Oregon State
+Frieda Fein - Oregon State
+Paulo Murillo - Oregon State
+
+>>>>>>> 9416aa9e84aaff9ee1a3084fd9f39246da81ba0b
 ## About
 
 The purpose of this repository is to organize and present our project to the group.
@@ -52,4 +60,6 @@ The dataset contains one band: 'precipitation' (mm/pentad)
 ---
  'VSI'
 Sensitivity of vegetation productivity (defined as EVI) to climate variability (based on temperature, water availability and cloudiness). The index ranges from 0 (low sensitivity, green) to 100 (high sensitivity, red).
+
+RRRRRRRRRRRRR
 ---
