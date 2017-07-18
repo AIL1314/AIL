@@ -66,5 +66,6 @@ The dataset contains one band: 'precipitation' (mm/pentad)
  'VSI'
 Sensitivity of vegetation productivity (defined as EVI) to climate variability (based on temperature, water availability and cloudiness). The index ranges from 0 (low sensitivity, green) to 100 (high sensitivity, red).
 
-RRRRRRRRRRRRR
+This metric identifies areas sensitive to climate variability over the past 14 years. The metric uses time series data derived from the moderate-resolution imaging spectroradiometer (MODIS) enhanced vegetation index, and three climatic variables that drive vegetation productivity (air temperature, water availability and cloud cover).
+
 ---
