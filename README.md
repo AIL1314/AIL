@@ -1,16 +1,14 @@
 # uNITAd
 
-This is cara : test
-
-This is Frieda
-
-This is Hannah : test
+Cara Steger - Colorado State
+Hannah Friedrich - Oregon State
+Frieda Fein - Oregon State
+Paulo Murillo - Oregon State
 
 ## About
 
-The purpose of this repository is to distribute handouts during a SESYNC training event. The content changes between short courses, but it typically includes worksheets for different tutorials and any necessary data.
+The purpose of this repository is to organize and present our project to the group.
 
-Most trainees will fork this repository during a short course. Following a short course, the content will be archived as a zip file. To get the handouts from a past short course: navigate to [releases](../../releases), select your course by its starting date, and download `handouts.zip`. The zip does not contain a git repository—only the worksheets and necessary data.
 
 ## Data
 
